@@ -1,6 +1,6 @@
 title: Making Connect Well Kingston
 logo: /assets/images/connect-well-kingston.png
-description: The latest updates from the Digital team helping make Connect Well Kingston.
+description: The latest updates from the team helping make Connect Well Kingston.
 show_downloads: false
 
 permalink: /blog/:year/:month/:title
@@ -14,7 +14,7 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: The latest updates from the Digital team helping make Connect Well Kingston.
+  header_text: The latest updates from the team helping make Connect Well Kingston.
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
